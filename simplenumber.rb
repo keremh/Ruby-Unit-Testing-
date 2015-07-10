@@ -1,4 +1,4 @@
-
+#İçinde 3 tane metod bulunduran basit bir sınıf tasarlayalım.
 class SimpleNumber
 
 	def initialize(num)
